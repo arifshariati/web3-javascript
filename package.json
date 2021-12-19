@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/arifshariati/web3-javascript#readme",
   "dependencies": {
+    "@ethereumjs/tx": "^3.4.0",
     "dotenv": "^10.0.0",
     "web3": "^1.6.1"
   }
